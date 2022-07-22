@@ -1,6 +1,6 @@
 Welcome to my GitHub Profile Page 👋
 
-I'm currently a first year student pursuing an Applied Mathematics degree with a CS Specialization at Ryerson University.
+I'm currently a second year student pursuing an Applied Mathematics degree with a CS Specialization at Ryerson University.
 
 Always happy to talk about anything!
 
