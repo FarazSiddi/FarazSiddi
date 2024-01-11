@@ -1,10 +1,10 @@
 Welcome to my GitHub Profile Page 👋
 
-I'm currently a second year student pursuing an Applied Mathematics degree with a CS Specialization at Ryerson University.
+I'm currently a third year student pursuing a Mathematics and Computer Science degree at Ryerson University.
 
 Always happy to talk about anything!
 
-I'm especially interested in developing applications involving the use of algorithms and aspire to work in the field of Data, Computer Vision, and Full-Stack Development.
+I'm especially interested in developing applications involving the use of algorithms and aspire to work in the field of Computer Graphics, Computer Vision, Machine Learning, and Full-Stack Development.
 
 Most of my repositories are private for now, but I will consider making some of them public in the near future.
 
