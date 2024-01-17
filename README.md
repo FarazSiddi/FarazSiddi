@@ -8,7 +8,7 @@ I'm especially interested in developing applications involving the use of algori
 
 Most of my repositories are private for now, but I will consider making some of them public in the near future.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarazSiddi)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarazSiddi&layout=compact&theme=dark)
 
 <!---
 null-2020/null-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
