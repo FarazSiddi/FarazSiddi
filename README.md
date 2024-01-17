@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=FarazSiddi)
 
-Welcome to my GitHub Profile Page 👋
+<h1 align="center">Welcome to my GitHub Profile Page 👋</h1>
 
 I'm currently a third year student pursuing a Mathematics and Computer Science degree at Ryerson University (now known as Toronto Metropolitan University).
 
