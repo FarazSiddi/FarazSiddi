@@ -12,7 +12,7 @@ Most of my repositories are private for now, but I will consider making some of 
 
 <h1>Stats 📊</h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarazSiddi&layout=compact&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FarazSiddi&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=FarazSiddi&theme=dark)](https://git.io/streak-stats)
 ![FarazSiddi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarazSiddi&show_icons=true&theme=dark)
 
 <!---
