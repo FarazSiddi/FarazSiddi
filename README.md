@@ -11,9 +11,9 @@ I'm especially interested in developing applications involving the use of algori
 Most of my repositories are private for now, but I will consider making some of them public in the near future.
 
 <h1>Stats 📊</h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarazSiddi&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=FarazSiddi&theme=dark)](https://git.io/streak-stats)
-![FarazSiddi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarazSiddi&show_icons=true&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazSiddi&layout=compact&theme=dark" alt="top-langs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarazSiddi&show_icons=true&theme=dark" alt="github-stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FarazSiddi&" alt="github-streak" /></p>
 
 <!---
 null-2020/null-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
