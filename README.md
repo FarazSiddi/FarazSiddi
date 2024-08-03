@@ -6,7 +6,7 @@ I'm currently a fourth year student pursuing a Mathematics and Computer Science 
 
 Always happy to talk about anything!
 
-I'm especially interested in developing applications involving the use of algorithms and aspire to work in the field of Computer Graphics, Computer Vision, Machine Learning, and Full-Stack Development.
+I'm especially interested in developing applications involving the use of algorithms and aspire to work in the field of Computer Graphics, Computer Vision, Machine Learning, and Back-End Development.
 
 Most of my repositories are private for now, but I will consider making a few of them public in the near future.
 
