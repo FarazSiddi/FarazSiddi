@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Faraz Siddiqui 👋</h1>
 
-I'm currently a third year student pursuing a Mathematics and Computer Science degree at Ryerson University (now known as Toronto Metropolitan University).
+I'm currently a fourth year student pursuing a Mathematics and Computer Science degree at Ryerson University (now known as Toronto Metropolitan University).
 
 Always happy to talk about anything!
 
